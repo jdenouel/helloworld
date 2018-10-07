@@ -1,7 +1,7 @@
 /**
  * 
  */
-package helloworld;
+package com.formation.perso.helloworld;
 
 /**
  * @author Jacques
